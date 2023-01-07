@@ -1,6 +1,7 @@
 //Enkripsi ssembarang berkas dengan
 //Algoritma XOR sederhana
-
+// Aditya Stefanus
+// 312010048
 #include <iostream>
 #include <string.h>
 #include <fstream>
